@@ -27,5 +27,20 @@ Here are some common examples</p>
 <img src="images/pizzaSales.png" alt="pizzaSales">
 
 <p>After which you will get the preview of your datasets and you need to click on transform data.</p>
+<p>Once you will click on transform data, Power Query Editor will open in which you can transform your data and find hidden insights from your data.</p>
+
+<img src="images/transformData.png" alt="transform data">
+
+<p>Now right click on Binary and select 'Add as New Query' in order to rename your dataset name.</p>
+
+<img src="images/binary.png" alt="binary">
+
+<p>After this procedure you need to click on data file name.</p>
+
+<img src="images/order.png" alt="order">
+
+<p>Now you can change the file name so that you can recognise your multiple data files name.</p>
+
+<img src="images/fileName.png" alt="file name">
 
 
