@@ -49,7 +49,7 @@ Here are some common examples</p>
 
 <h2>Basic Transformations</h2>
 
-<h4>Setting Column</h4>
+<h3>Setting Column</h3>
 
 <p>Now, as checked in pizza types data file, column names were wrongly set, thus we can change it by using (Use First Row as Headers) in Transform page.
 
