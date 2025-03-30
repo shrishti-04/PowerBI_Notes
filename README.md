@@ -12,3 +12,14 @@ It provides a user-friendly, no-code interface for cleaning and reshaping data b
   <li><p>Updates data automatically when sources change.</p></li>
   <li><p>M Language (M Code):</b> Uses a formula language for advanced data transformation.</p></li>
 </ul>
+
+<H3>Data Connectors / Data Extraction</H3>
+
+<p>You can connect your data along with IBM server, Python, BigQuery, etc.
+Here are some common examples</p>
+
+<img src='C:\Users\Shris\OneDrive\Documents\Power BI\images\dataConnector.png' alt = 'Data Connector'></img>
+
+<p>You can extract any datasets in power query using get data options, following it browsing your datasets from your respective folders.</p>
+
+<p>After which you will get the preview of your datasets and you need to click on transform data.</p>
