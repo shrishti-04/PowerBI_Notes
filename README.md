@@ -55,3 +55,15 @@ Here are some common examples</p>
 
 <img src="images/wrong_columns.png" alt="wrong column">
 <img src="images/correct_columns.png" alt="correct column">
+
+<h3>Dates</h3>
+
+<p>If suppose you want to extract month from the dates, you need to:
+<ul>
+<li>Add new column, you don't have to edit existing column</li>
+<li>After that, click on Dates column and then select dates</li>
+<li>And then you can select month and then name of the month in order to extract month.</li>
+<li>After which you can notice we have extracted name of the month in new column.</li>
+
+<img src="images/date1.png" alt="date">
+<img src="images/date2.png" alt="date">
