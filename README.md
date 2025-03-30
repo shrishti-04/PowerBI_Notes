@@ -22,4 +22,10 @@ Here are some common examples</p>
 
 <p>You can extract any datasets in power query using get data options, following it browsing your datasets from your respective folders.</p>
 
+<img src="images/dataFolder.png" alt="data folder">
+<img src="images/folderPath.png" alt="folder path">
+<img src="images/pizzaSales.png" alt="pizzaSales">
+
 <p>After which you will get the preview of your datasets and you need to click on transform data.</p>
+
+
