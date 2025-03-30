@@ -43,4 +43,7 @@ Here are some common examples</p>
 
 <img src="images/fileName.png" alt="file name">
 
+<p>Similarly change all the data files names for proper format.</p>
+
+<img src="images/allFiles.png" alt="all file">
 
