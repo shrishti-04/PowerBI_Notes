@@ -51,7 +51,7 @@ Here are some common examples</p>
 
 <h3>Setting Column</h3>
 
-<p>Now, as checked in pizza types data file, column names were wrongly set, thus we can change it by using (Use First Row as Headers) in Transform page.
+<p>Now, as checked in pizza types data file, column names were wrongly set, thus we can change it by using (Use First Row as Headers) in Transform page.</p>
 
 <img src="images/wrong_columns.png" alt="wrong column">
 <img src="images/correct_columns.png" alt="correct column">
