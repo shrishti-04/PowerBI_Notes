@@ -13,7 +13,7 @@ It provides a user-friendly, no-code interface for cleaning and reshaping data b
   <li><p>M Language (M Code):</b> Uses a formula language for advanced data transformation.</p></li>
 </ul>
 
-<H3>Data Connectors / Data Extraction</H3>
+<H2>Data Connectors / Data Extraction</H2>
 
 <p>You can connect your data along with IBM server, Python, BigQuery, etc.
 Here are some common examples</p>
@@ -47,3 +47,11 @@ Here are some common examples</p>
 
 <img src="images/allFiles.png" alt="all file">
 
+<h2>Basic Transformations</h2>
+
+<h4>Setting Column</h4>
+
+<p>Now, as checked in pizza types data file, column names were wrongly set, thus we can change it by using (Use First Row as Headers) in Transform page.
+
+<img src="images/wrong_columns.png" alt="wrong column">
+<img src="images/correct_columns.png" alt="correct column">
