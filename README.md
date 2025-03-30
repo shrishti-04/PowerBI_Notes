@@ -18,7 +18,7 @@ It provides a user-friendly, no-code interface for cleaning and reshaping data b
 <p>You can connect your data along with IBM server, Python, BigQuery, etc.
 Here are some common examples</p>
 
-<img src='C:\Users\Shris\OneDrive\Documents\Power BI\images\dataConnector.png'>
+<img src='C:\Users\Shris\OneDrive\Documents\Power BI\images\dataConnector.png' alt='data connector'>
 
 <p>You can extract any datasets in power query using get data options, following it browsing your datasets from your respective folders.</p>
 
