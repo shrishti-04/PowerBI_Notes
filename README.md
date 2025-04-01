@@ -63,7 +63,18 @@ Here are some common examples</p>
 <li>Add new column, you don't have to edit existing column</li>
 <li>After that, click on Dates column and then select dates</li>
 <li>And then you can select month and then name of the month in order to extract month.</li>
-<li>After which you can notice we have extracted name of the month in new column.</li>
+<li>After which you can notice we have extracted name of the month in new column.</li></p>
 
 <img src="images/date1.png" alt="date">
 <img src="images/date2.png" alt="date">
+
+<h2>Text Tools</h2>
+<h3>Merging two columns</h3>
+<p>If you want to merge any two columns then you have to select two colums, and after selecting it you need to select merge option from transform.</p>
+
+<img src="images/merge1.png" alt="merge">
+
+<p>Once you have select merge, make sure you select space as seperator, or vice a versa.
+After which you can see a column has been generated as merged, you just need to rename it according to your condition. I have renamed here it as Full Name.</p>
+
+<img src="images/merge2.png" alt="merge">
