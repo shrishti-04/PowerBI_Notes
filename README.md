@@ -98,11 +98,11 @@ After which you can see a column has been generated as merged, you just need to 
 
 <p>After which we can we can fill all these null values using fill down or fill up.
 
-<img src="images/null2.png" alt="null">
+<img src="images/null3.png" alt="null">
 
 <p> And now you can see null values has been removed from data.</p>
 
-<img src="images/null2.png" alt="null">
+<img src="images/null4.png" alt="null">
 
 <h3>Removal of Duplicate Values</h3>
 
