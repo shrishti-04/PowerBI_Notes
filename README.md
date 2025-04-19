@@ -79,7 +79,7 @@ After which you can see a column has been generated as merged, you just need to 
 
 <img src="images/merge2.png" alt="merge">
 
-<h2>Extraction</h2>
+<h3>Extraction</h3>
 <p>Suppose we want to extract a username from email id in new column<p>
 
 <p>First we will click on extract button and then we will select text before delimeter which we will take as @, since we want to extract username from email id, but suppose you want to extract domain from email id, then you must select text after delimeter.<p>
@@ -88,3 +88,24 @@ After which you can see a column has been generated as merged, you just need to 
 <img src="images/extract2.png" alt="extract">
 <img src="images/extract3.png" alt="extract">
 <img src="images/extract4.png" alt="extract">
+
+<h3>Removal of Null and Duplicate Values</h3>
+
+<p>For removal of null values there is option on tool bar which is replace values in which you call replace NULL as null which will show NULL values and it will be easy to remove them.
+
+<img src="images/null1.png" alt="null">
+<img src="images/null2.png" alt="null">
+
+<p>After which we can we can fill all these null values using fill down or fill up.
+
+<img src="images/null2.png" alt="null">
+
+<p> And now you can see null values has been removed from data.</p>
+
+<img src="images/null2.png" alt="null">
+
+<h3>Removal of Duplicate Values</h3>
+
+<p>There is a option of removing duplicates in your row option when you right click on column name you wwill get option as Remove Duplicates which will help in removing duplicates from your rows</p>
+
+<img src="images/duplicate1.png" alt="null">
