@@ -123,3 +123,5 @@ After which you can see a column has been generated as merged, you just need to 
 <p>And After selection apply multiplication between both the columns in order to find the total sales.</p>
 
 <img src="images/num2.png" alt="numeric">
+
+<p>There are several other Mathematical functions such as Scientific calculations like Logarithmic, Exponential etc calculations, Trignometric calculations, Round up or Round down calculations, etc. You can explore each one to find out hidden insights from your data.</p>
