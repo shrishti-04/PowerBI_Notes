@@ -154,5 +154,6 @@ After which you can see a column has been generated as merged, you just need to 
 <p>Ans: In order to extract month from orderDate column, we will select add column in task bar, and select date from tool bar, after which we can select name of the month, and extract it.</p>
 
 <img src="images/dates6.png" alt="dateTime">
+<img src="images/dates7.png" alt="dateTime">
 
 <p> Similarly we can select week and year</p>
