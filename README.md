@@ -125,3 +125,34 @@ After which you can see a column has been generated as merged, you just need to 
 <img src="images/num2.png" alt="numeric">
 
 <p>There are several other Mathematical functions such as Scientific calculations like Logarithmic, Exponential etc calculations, Trignometric calculations, Round up or Round down calculations, etc. You can explore each one to find out hidden insights from your data.</p>
+
+<h2>Date and Time</h2>
+
+<p>When anyone make orders, date and time are always recorded, and based on date and time we can find out insights, that on which month product was ordered mostly, on which month company had more profits, we can find hidden trends, which can help your business to grow in near future.</p>
+
+<p>Q2: How can we remove NULL values from date and time column?</p>
+
+<p>Ans: First change date column type in string format instead of date.</p>
+
+<img src="images/dates1.png" alt="dateTime">
+
+<p> Now you will be able to see NULL values, which you have to replace as 0 instead of null. It will start giving you error, but you need to remove your error rows as given in the picture.</p>
+
+<img src="images/dates2.png" alt="dateTime">
+
+<p> Change the type again in Date format after which it will start giving error</p>
+
+<img src="images/dates3.png" alt="dateTime">
+<img src="images/dates4.png" alt="dateTime">
+
+<p>Now select remove error rows in order to remove error from that particular column after which your null values will be removed from Date column.<p>
+
+<img src="images/dates5.png" alt="dateTime">
+
+<p>Q3: Extract the order month from the data</p>
+
+<p>Ans: In order to extract month from orderDate column, we will select add column in task bar, and select date from tool bar, after which we can select name of the month, and extract it.</p>
+
+<img src="images/dates6.png" alt="dateTime">
+
+<p> Similarly we can select week and year</p>
