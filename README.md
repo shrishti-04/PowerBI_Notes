@@ -115,3 +115,11 @@ After which you can see a column has been generated as merged, you just need to 
 <p>If we want to find any statistical values such as average, maximum or minimum we can use statistics given in option, but it will be better to use DAX queries in terms of finding statistical values.</p>
 
 <img src="images/num1.png" alt="numeric">
+
+<p>Q1: Find the total sales from the table order details</p>
+
+<p>Ans: First we will add a new column i.e. add custom column, after which we will select two columns, first column which contains the number of product ordered, i.e. quantityOrdered and second we will select the column which contains price of each product, i.e. priceEach.</p>
+
+<p>And After selection apply multiplication between both the columns in order to find the total sales.</p>
+
+<img src="images/num2.png" alt="numeric">
