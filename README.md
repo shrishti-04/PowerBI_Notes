@@ -108,4 +108,10 @@ After which you can see a column has been generated as merged, you just need to 
 
 <p>There is a option of removing duplicates in your row option when you right click on column name you wwill get option as Remove Duplicates which will help in removing duplicates from your rows</p>
 
-<img src="images/duplicate1.png" alt="null">
+<img src="images/duplicate1.png" alt="duplicate">
+
+<h2>Numeric Tools Using PowerQuery</h2>
+
+<p>If we want to find any statistical values such as average, maximum or minimum we can use statistics given in option, but it will be better to use DAX queries in terms of finding statistical values.</p>
+
+<img src="images/num1.png" alt="numeric">
