@@ -44,7 +44,7 @@ Here are some common examples</p>
 <li>Add new column, you don't have to edit existing column</li>
 <li>After that, click on Dates column and then select dates</li>
 <li>And then you can select month and then name of the month in order to extract month.</li>
-<li>After which you can notice we have extracted name of the month in new column.</li></p>
+<li>After which you can notice we have extracted name of the month in new column.</li></ul></p>
 
 <h2>Text Tools</h2>
 <h3>Merging two columns</h3>
