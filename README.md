@@ -101,3 +101,19 @@ After which you can see a column has been generated as merged, you just need to 
 <p>Ans: In order to extract month from orderDate column, we will select add column in task bar, and select date from tool bar, after which we can select name of the month, and extract it.</p>
 
 <p> Similarly we can select week and year</p>
+
+<h2>Pivoting and Unpivoting</h2>
+<p><b>Pivoting:</b>It transforms row data into columns</p>
+<p><b>Unpivoting:</b>It transforms column data into row</p>
+
+<h2>Model Relationship</h2>
+
+<p>Model Relationship are dependent on the primary key column and foreign key column, where foreign key is the primary key column of the other table.</p>
+
+<p>Model relationships can be of four types, such as:</p>
+<ul>
+<li>One to One: Each record in Table A is related to exactly one record in Table B, and vice versa.</li>
+<li>One to Many: A single record in Table A can be related to multiple records in Table B.</li>
+<li>Many to One: Multiple records in Table A relate to a single record in Table B.</li>
+<li>Many to Many: Records in Table A can relate to multiple records in Table B, and vice versa, usually through a junction table.</li>
+</ul>
