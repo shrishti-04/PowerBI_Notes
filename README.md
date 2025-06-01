@@ -117,3 +117,12 @@ After which you can see a column has been generated as merged, you just need to 
 <li>Many to One: Multiple records in Table A relate to a single record in Table B.</li>
 <li>Many to Many: Records in Table A can relate to multiple records in Table B, and vice versa, usually through a junction table.</li>
 </ul>
+
+<h2>DAX</h2>
+<p><b>DAX</b> is Data Analysis Expression which is used in terms of calculating aggregate function, to find measures and many more hidden insights.</p>
+
+<h3>Conditional function in DAX query</h3>
+
+<p>Q4: If stock is less than 500 than kindly mention that stock is required or else no need of stock<p>
+
+<p>stockRequirement = IF(product[productQuantity] <= 500,"Required","Not Required")</p>
